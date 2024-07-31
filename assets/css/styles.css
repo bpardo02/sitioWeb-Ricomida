@@ -1,0 +1,52 @@
+body{
+    font-family: "Cabin", sans-serif;
+   
+}
+
+
+.botones{
+    text-transform: lowercase;
+}
+
+hr{
+    height: 3px;
+    background: #333;
+}
+
+.justify{
+    text-align: justify;
+}
+
+
+footer{
+    background-color: #DC3545;
+    color: #FFFFFF;
+    height: 400px;
+}
+
+.footerbottom{
+    background-color: #373A3C;
+    color: #FFFFFF;
+    width: 100%;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 992px) {
+    .text-lg-custom {
+        font-size: 3em;
+    }
+
+    .ingrediente{
+        width: 50%;
+    }
+
+    .preparacion{
+        width: 50%;
+    }
+}
+
+.navbar-brand{
+    font-family: "Lobster", sans-serif;
+}
